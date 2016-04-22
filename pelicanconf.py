@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = '40423125'
-SITENAME = '40423125 is blog'
-SITEURL = 'http://40423125.github.io/blog/'
+SITENAME = '40423125 的網誌'
+SITEURL = 'http://40423125.github.io/blog'
 
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
